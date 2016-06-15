@@ -1,0 +1,15 @@
+{
+  "name": "xsdToSvgApi",
+  "version": "1.0.0",
+  "description": "this api converts a xsd file to svg image",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roshan Piumal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "~4.13.4"
+  }
+}
