@@ -1,0 +1,411 @@
+{
+    "data": [
+        {
+            "id": "65c3e993-7cc4-42df-4689-83483df39488",
+            "name": "Ladder 1",
+            "height": "3em",
+            "classes": [],
+            "tasks": [
+                {
+                    "id": "337b2f4d-db44-96a4-eeca-daa741d3b6d1",
+                    "name": "1",
+                    "classes": ["md-light-blue-100-bg"],
+                    "from": "2016-01-01T06:00:00.000Z",
+                    "to": "2016-01-01T07:00:00.000Z",
+                    "data": "Style 1 Blue"
+                },
+                {
+                    "id": "337b2f4d-db44-96a4-eeca-daa741d3b6d3",
+                    "name": "1",
+                    "classes": ["md-light-blue-100-bg"],
+                    "from": "2016-01-04T06:00:00.000Z",
+                    "to": "2016-01-04T07:00:00.000Z",
+                    "data": "Style 1 Blue"
+                },
+                {
+                    "id": "337b2f4d-db44-96a4-eeca-daa741d3b6d2",
+                    "name": "1",
+                    "classes": ["md-light-blue-100-bg"],
+                    "from": "2016-01-05T06:00:00.000Z",
+                    "to": "2016-01-05T07:00:00.000Z",
+                    "data": "Style 1 Blue"
+                },
+                {
+                    "id": "337b2f4d-db44-96a4-eeca-daa741d3b6d6",
+                    "name": "1",
+                    "classes": ["md-light-blue-100-bg"],
+                    "from": "2016-01-06T06:00:00.000Z",
+                    "to": "2016-01-06T07:00:00.000Z",
+                    "data": "Style 1 Blue"
+                },
+                {
+                    "id": "dfb005b7-b35e-53fb-7797-accae48015bb",
+                    "name": "2",
+                    "classes": ["md-light-green-200-bg"],
+                    "from": "2016-01-11T10:00:00.000Z",
+                    "to": "2016-01-11T10:00:00.000Z",
+                    "data": "Style 2 Green"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de175821c345",
+                    "name": "2",
+                    "classes": ["md-light-green-200-bg"],
+                    "from": "2016-01-12T14:00:00.000Z",
+                    "to": "2016-01-12T14:00:00.000Z",
+                    "data": "Style 2 Green"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de175821cdfg",
+                    "name": "2",
+                    "classes": ["md-light-green-200-bg"],
+                    "from": "2016-01-13T14:00:00.000Z",
+                    "to": "2016-01-13T14:00:00.000Z",
+                    "data": "Style 2 Green"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de175821cgfd",
+                    "name": "2",
+                    "classes": ["md-light-green-200-bg"],
+                    "from": "2016-01-14T14:00:00.000Z",
+                    "to": "2016-01-14T14:00:00.000Z",
+                    "data": "Style 2 Green"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de1758217789",
+                    "name": "2",
+                    "classes": ["md-light-green-200-bg"],
+                    "from": "2016-01-15T14:00:00.000Z",
+                    "to": "2016-01-15T14:00:00.000Z",
+                    "data": "Style 2 Green"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de1758212134",
+                    "name": "3",
+                    "classes": [],
+                    "from": "2016-01-18T14:00:00.000Z",
+                    "to": "2016-01-18T14:00:00.000Z"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de175821sdfg",
+                    "name": "3",
+                    "classes": [],
+                    "from": "2016-01-19T14:00:00.000Z",
+                    "to": "2016-01-19T14:00:00.000Z"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de175821cwer",
+                    "name": "3",
+                    "classes": [],
+                    "from": "2016-01-20T14:00:00.000Z",
+                    "to": "2016-01-20T14:00:00.000Z"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de175821crty",
+                    "name": "3",
+                    "classes": [],
+                    "from": "2016-01-25T14:00:00.000Z",
+                    "to": "2016-01-25T14:00:00.000Z"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de175821cyui",
+                    "name": "3",
+                    "classes": [],
+                    "from": "2016-01-26T14:00:00.000Z",
+                    "to": "2016-01-26T14:00:00.000Z"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de175821cvvb",
+                    "name": "3",
+                    "classes": [],
+                    "from": "2016-01-27T14:00:00.000Z",
+                    "to": "2016-01-27T14:00:00.000Z"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de175821ctyu",
+                    "name": "3",
+                    "classes": [],
+                    "from": "2016-01-28T14:00:00.000Z",
+                    "to": "2016-01-28T14:00:00.000Z"
+                }
+            ],
+            "data": "Can contain any custom data or object"
+        },
+        {
+            "id": "292a86cf-a3e0-20f2-9dda-cd8ee40d581e",
+            "name": "Ladder 2",
+            "classes": [
+            ],
+            "tasks":[
+                {
+                    "id": "337b2f4d-db44-96a4-eeca-daa741d3b6d6",
+                    "name": "2",
+                    "classes": ["md-light-green-200-bg"],
+                    "from": "2016-01-01T06:00:00.000Z",
+                    "to": "2016-01-01T07:00:00.000Z",
+                    "data": "Style 1 Blue"
+                },
+                {
+                    "id": "337b2f4d-db44-96a4-eeca-daa741d3b6d3",
+                    "name": "1",
+                    "classes": ["md-light-blue-100-bg"],
+                    "from": "2016-01-04T06:00:00.000Z",
+                    "to": "2016-01-04T07:00:00.000Z",
+                    "data": "Style 1 Blue"
+                },
+                {
+                    "id": "337b2f4d-db44-96a4-eeca-daa741d3b6d2",
+                    "name": "1",
+                    "classes": ["md-light-blue-100-bg"],
+                    "from": "2016-01-05T06:00:00.000Z",
+                    "to": "2016-01-05T07:00:00.000Z",
+                    "data": "Style 1 Blue"
+                },
+                {
+                    "id": "337b2f4d-db44-96a4-eeca-daa741d3b6d6",
+                    "name": "2",
+                    "classes": ["md-light-green-200-bg"],
+                    "from": "2016-01-06T06:00:00.000Z",
+                    "to": "2016-01-06T07:00:00.000Z",
+                    "data": "Style 1 Blue"
+                },
+                {
+                    "id": "337b2f4d-db44-96a4-eeca-daa741dghjko",
+                    "name": "2",
+                    "classes": ["md-light-green-200-bg"],
+                    "from": "2016-01-07T06:00:00.000Z",
+                    "to": "2016-01-07T07:00:00.000Z",
+                    "data": "Style 1 Blue"
+                },
+                {
+                    "id": "337b2f4d-db44-96a4-eeca-daa741d3b6d1",
+                    "name": "2",
+                    "classes": ["md-light-green-200-bg"],
+                    "from": "2016-01-08T06:00:00.000Z",
+                    "to": "2016-01-08T07:00:00.000Z",
+                    "data": "Style 1 Blue"
+                },
+                {
+                    "id": "dfb005b7-b35e-53fb-7797-accae48015bb",
+                    "name": "2",
+                    "classes": ["md-light-green-200-bg"],
+                    "from": "2016-01-11T10:00:00.000Z",
+                    "to": "2016-01-11T10:00:00.000Z",
+                    "data": "Style 2 Green"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de175821c345",
+                    "name": "2",
+                    "classes": ["md-light-green-200-bg"],
+                    "from": "2016-01-12T14:00:00.000Z",
+                    "to": "2016-01-12T14:00:00.000Z",
+                    "data": "Style 2 Green"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de175821cdfg",
+                    "name": "2",
+                    "classes": ["md-light-green-200-bg"],
+                    "from": "2016-01-13T14:00:00.000Z",
+                    "to": "2016-01-13T14:00:00.000Z",
+                    "data": "Style 2 Green"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de175821cgfd",
+                    "name": "2",
+                    "classes": ["md-light-green-200-bg"],
+                    "from": "2016-01-21T14:00:00.000Z",
+                    "to": "2016-01-21T14:00:00.000Z",
+                    "data": "Style 2 Green"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de1758217789",
+                    "name": "2",
+                    "classes": ["md-light-green-200-bg"],
+                    "from": "2016-01-22T14:00:00.000Z",
+                    "to": "2016-01-22T14:00:00.000Z",
+                    "data": "Style 2 Green"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de1758212134",
+                    "name": "3",
+                    "classes": [],
+                    "from": "2016-01-18T14:00:00.000Z",
+                    "to": "2016-01-18T14:00:00.000Z"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de175821sdfg",
+                    "name": "3",
+                    "classes": [],
+                    "from": "2016-01-14T14:00:00.000Z",
+                    "to": "2016-01-14T14:00:00.000Z"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de175821cwer",
+                    "name": "3",
+                    "classes": [],
+                    "from": "2016-01-15T14:00:00.000Z",
+                    "to": "2016-01-15T14:00:00.000Z"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de175821crty",
+                    "name": "2",
+                    "classes": ["md-light-green-200-bg"],
+                    "from": "2016-01-25T14:00:00.000Z",
+                    "to": "2016-01-25T14:00:00.000Z"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de175821cyui",
+                    "name": "2",
+                    "classes": ["md-light-green-200-bg"],
+                    "from": "2016-01-26T14:00:00.000Z",
+                    "to": "2016-01-26T14:00:00.000Z"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de175821cvvb",
+                    "name": "2",
+                    "classes": ["md-light-green-200-bg"],
+                    "from": "2016-01-27T14:00:00.000Z",
+                    "to": "2016-01-27T14:00:00.000Z"
+                }
+            ]
+        },
+        {
+            "id": "292a86cf-a3e0-20f2-9dda-cd8ee40d581f",
+            "name": "Ladder 3",
+            "classes": [
+            ],
+            "tasks": [
+                
+                {
+                    "id": "337b2f4d-db44-96a4-eeca-daa741d3b6d3",
+                    "name": "1",
+                    "classes": ["md-light-blue-100-bg"],
+                    "from": "2016-01-04T06:00:00.000Z",
+                    "to": "2016-01-04T07:00:00.000Z",
+                    "data": "Style 1 Blue"
+                },
+                {
+                    "id": "337b2f4d-db44-96a4-eeca-daa741d3b6d2",
+                    "name": "1",
+                    "classes": ["md-light-blue-100-bg"],
+                    "from": "2016-01-05T06:00:00.000Z",
+                    "to": "2016-01-05T07:00:00.000Z",
+                    "data": "Style 1 Blue"
+                },
+                {
+                    "id": "337b2f4d-db44-96a4-eeca-daa741d3b6778",
+                    "name": "1",
+                    "classes": ["md-light-blue-100-bg"],
+                    "from": "2016-01-07T06:00:00.000Z",
+                    "to": "2016-01-07T07:00:00.000Z",
+                    "data": "Style 1 Blue"
+                },
+                {
+                    "id": "337b2f4d-db44-96a4-eeca-daa741d3b6d6",
+                    "name": "1",
+                    "classes": ["md-light-blue-100-bg"],
+                    "from": "2016-01-06T06:00:00.000Z",
+                    "to": "2016-01-06T07:00:00.000Z",
+                    "data": "Style 1 Blue"
+                },
+                {
+                    "id": "337b2f4d-db44-96a4-eeca-daa741d3b6d1",
+                    "name": "1",
+                    "classes": ["md-light-blue-100-bg"],
+                    "from": "2016-01-08T06:00:00.000Z",
+                    "to": "2016-01-08T07:00:00.000Z",
+                    "data": "Style 1 Blue"
+                },
+                {
+                    "id": "dfb005b7-b35e-53fb-7797-accae48015bb",
+                    "name": "2",
+                    "classes": ["md-light-green-200-bg"],
+                    "from": "2016-01-11T10:00:00.000Z",
+                    "to": "2016-01-11T10:00:00.000Z",
+                    "data": "Style 2 Green"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de175821c345",
+                    "name": "2",
+                    "classes": ["md-light-green-200-bg"],
+                    "from": "2016-01-12T14:00:00.000Z",
+                    "to": "2016-01-12T14:00:00.000Z",
+                    "data": "Style 2 Green"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de175821cdfg",
+                    "name": "2",
+                    "classes": ["md-light-green-200-bg"],
+                    "from": "2016-01-13T14:00:00.000Z",
+                    "to": "2016-01-13T14:00:00.000Z",
+                    "data": "Style 2 Green"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de175821cgfd",
+                    "name": "2",
+                    "classes": ["md-light-green-200-bg"],
+                    "from": "2016-01-14T14:00:00.000Z",
+                    "to": "2016-01-14T14:00:00.000Z",
+                    "data": "Style 2 Green"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de1758217789",
+                    "name": "2",
+                    "classes": ["md-light-green-200-bg"],
+                    "from": "2016-01-15T14:00:00.000Z",
+                    "to": "2016-01-15T14:00:00.000Z",
+                    "data": "Style 2 Green"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de1758212134",
+                    "name": "3",
+                    "classes": [],
+                    "from": "2016-01-18T14:00:00.000Z",
+                    "to": "2016-01-18T14:00:00.000Z"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de175821sdfg",
+                    "name": "3",
+                    "classes": [],
+                    "from": "2016-01-19T14:00:00.000Z",
+                    "to": "2016-01-19T14:00:00.000Z"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de175821cwer",
+                    "name": "3",
+                    "classes": [],
+                    "from": "2016-01-20T14:00:00.000Z",
+                    "to": "2016-01-20T14:00:00.000Z"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de175821crty",
+                    "name": "3",
+                    "classes": [],
+                    "from": "2016-01-25T14:00:00.000Z",
+                    "to": "2016-01-25T14:00:00.000Z"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de175821cyui",
+                    "name": "3",
+                    "classes": [],
+                    "from": "2016-01-26T14:00:00.000Z",
+                    "to": "2016-01-26T14:00:00.000Z"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de175821cvvb",
+                    "name": "3",
+                    "classes": [],
+                    "from": "2016-01-27T14:00:00.000Z",
+                    "to": "2016-01-27T14:00:00.000Z"
+                },
+                {
+                    "id": "d7373b38-3140-45cf-40e8-de175821ctyu",
+                    "name": "3",
+                    "classes": [],
+                    "from": "2016-01-28T14:00:00.000Z",
+                    "to": "2016-01-28T14:00:00.000Z"
+                }
+            ]
+        }
+        
+    ]
+}
