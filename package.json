@@ -1,7 +1,7 @@
 {
-  "name": "xsdToSvgApi",
+  "name": "brandix",
   "version": "1.0.0",
-  "description": "this api converts a xsd file to svg image",
+  "description": "brandix",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.0",
-    "express": "~4.13.4"
+    "express": "~4.13.4",
+    "mongoose": "^4.5.1",
+    "request": "^2.72.0"
   }
 }
