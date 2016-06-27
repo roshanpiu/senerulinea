@@ -2,7 +2,7 @@
     "data": [
         {
             "id": "65c3e993-7cc4-42df-4689-83483df39488",
-            "name": "Ladder 1",
+            "name": "Line 1",
             "height": "3em",
             "classes": [],
             "tasks": [
@@ -132,7 +132,7 @@
         },
         {
             "id": "292a86cf-a3e0-20f2-9dda-cd8ee40d581e",
-            "name": "Ladder 2",
+            "name": "Line 2",
             "classes": [
             ],
             "tasks":[
@@ -270,7 +270,7 @@
         },
         {
             "id": "292a86cf-a3e0-20f2-9dda-cd8ee40d581f",
-            "name": "Ladder 3",
+            "name": "Line 3",
             "classes": [
             ],
             "tasks": [
