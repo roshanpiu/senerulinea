@@ -9,9 +9,18 @@
   "author": "Roshan Piumal",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.15.0",
+    "body-parser": "~1.15.0",
     "express": "~4.13.4",
-    "mongoose": "^4.5.1",
-    "request": "^2.72.0"
+    "mongoose": "~4.5.1",
+    "request": "~2.72.0",
+    "bcrypt-nodejs": "0.0.3",
+    "cookie-parser": "~1.3.3",
+    "debug": "2.0.0",
+    "ejs": "~0.8.5",
+    "express-session": "1.10.3",
+    "morgan": "~1.3.0",
+    "passport": "0.2.1",
+    "passport-local": "1.0.0",
+    "serve-favicon": "~2.1.3"
   }
 }
