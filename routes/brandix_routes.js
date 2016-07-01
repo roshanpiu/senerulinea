@@ -1,5 +1,19 @@
 module.exports = function(app) {
 
+    function isAuthenticated (req, res, next) {
+        if(req.method === "GET"){
+            return next();
+        }
+        if (req.isAuthenticated()){
+            return next();
+        }
+
+        return res.redirect('/login');
+    };
+
+    //Register the authentication middleware
+    //app.use(isAuthenticated);
+
     app.post('/brandixData', function (req, res) {
         // var newUser = new User(req.body);
         // newUser.save(function(err, obj) {
@@ -8,7 +22,7 @@ module.exports = function(app) {
         //     };
         //     return res.json({info: 'user created successfully', obj: obj});
         // });
-        console.log(JSON.stringify(req.body));
+        //console.log(JSON.stringify(req.body));
         res.json({requestBody : req.body});
 
     });

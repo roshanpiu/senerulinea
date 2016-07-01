@@ -27,15 +27,17 @@ router.route('/posts')
 	//creates a new post
 	.post(function(req, res){
 
-		var post = new Post();
-		post.text = req.body.text;
-		post.created_by = req.body.created_by;
-		post.save(function(err, post) {
-			if (err){
-				return res.send(500, err);
-			}
-			return res.json(post);
-		});
+		// var post = new Post();
+		// post.text = req.body.text;
+		// post.created_by = req.body.created_by;
+		// post.save(function(err, post) {
+		// 	if (err){
+		// 		return res.send(500, err);
+		// 	}
+		// 	return res.json(post);
+		// });
+		return res.json(req.body);
+		
 	})
 	//gets all posts
 	.get(function(req, res){

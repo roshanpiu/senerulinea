@@ -36,6 +36,7 @@ app.use(passport.session());
 app.use('/', index);
 app.use('/auth', authenticate);
 app.use('/api', api);
+var brandix = require('./routes/brandix_routes.js')(app);
 
 app.use('/*', express.static(path.join(__dirname, 'public/index.html')));
 
@@ -79,7 +80,6 @@ var db = mongoose.connection;
 
 var PORT = 3007;
 
-var brandix = require('./routes/brandix_routes.js')(app);
 
 db.on('error', console.error.bind(console, 'connection error:'));
 db.once('open', function() {
